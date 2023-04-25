@@ -1,5 +1,7 @@
 # cityLights
 
+Copy the citylights.js file and paste into the editor playground at https://editor.p5js.org or open the citylight.html file for the experience in a web browser.
+
 This p5.js code creates an animated, colorful pattern made up of small circles designed to simulate city lights on a 750x750 canvas. The visual effect is a combination of a somewhat grid-like layout with a subtle wave-like motion due to the use of Perlin noise. The circles' colors, positions, and sizes are controlled by the calculated values, creating a dynamic visual effect.
 
 Here's a breakdown of the code:
